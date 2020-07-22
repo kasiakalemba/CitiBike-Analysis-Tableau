@@ -1,6 +1,6 @@
 # CitiBike Usage: Why aren't females biking more?
 
-##Tableu Public Links: 
+## Tableu Public Links: 
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/BigPicutre
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/Why?publish=yes
 
@@ -30,7 +30,7 @@ Although this phenomenon was observed many years back, the usage remains low unt
 [CitBike](https://www.citibikenyc.com/system-data)
 
 ## References: 
-[The Cut](https://www.thecut.com/2015/07/why-arent-more-women-riding-citi-bikes.html)
-[Gothamist](https://gothamist.com/news/why-do-so-few-women-use-citi-bike)
-[CitiBike](https://www.citibikenyc.com/blog/womens-bike-month)
+* [The Cut](https://www.thecut.com/2015/07/why-arent-more-women-riding-citi-bikes.html)
+* [Gothamist](https://gothamist.com/news/why-do-so-few-women-use-citi-bike)
+* [CitiBike](https://www.citibikenyc.com/blog/womens-bike-month)
 
