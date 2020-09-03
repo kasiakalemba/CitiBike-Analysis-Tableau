@@ -1,4 +1,4 @@
-# CitiBike Usage: Why aren't females biking more?
+# CitiBike Usage: Why aren't females biking more? 
 
 ## Tableu Public Links: 
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/BigPicutre
