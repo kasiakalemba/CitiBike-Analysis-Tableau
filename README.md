@@ -12,10 +12,12 @@ I recently started commuting to work on a bike and what I immediately noticed th
 
 ## Observed Trends: 
 The first map simply displays the distributions of stations based on total volume of trips taken. By far, we can see that Grove Street Path station is the busiest CitiBike site in the city.
+![](images/bigpic.png)
 
 * Below, I broke down the users based on age and gender. What was a striking finding is how much bigger male usage is compared to female, independent of age. At first look, we see that the total number of trips taken is three times higher in males than in females, however, females show higher average trip durations. This made me look more into specific patterns of these trips.
 
 * On the second dashboard, the first graph displays the trips taken based on the weekday. Looking at the female usage, we can see that it is fairly steady throughout the week while male usage sharply increases during the weekdays. This suggests that males are more likely using the shared biked system as a way to commute to work. The next graphs support that idea, as the sharpest increases in male bike usage occur during commuting hours. Although female usage also has a slight spike, it is nowhere near the male one.
+![](images/analysis.png)
 
 * Next, I wanted to look at the breakdown of the most active stations by gender usage. Although male usage broken down by station was always higher than female usage, the Grove Street Path station had 55% more activity of the second highest one for the male group. This is not the case for females as it only increased a little over 30% from the second highest one. Grove Street Path station is the main junction between NJ and NY therefore this finding further supports the observation that male usage is related to communing.
 
