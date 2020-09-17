@@ -5,6 +5,7 @@ https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPictur
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/Why?publish=yes
 
 
+
 ## Motivation: 
 As apartment sizes grow smaller in commuter hubs, the desire to live in the attractive areas such as Jersey City only grows bigger. One solution to saving space within an apartment and being a better commuter is the shared bike program like CitiBike. 
 
