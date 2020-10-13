@@ -4,7 +4,13 @@
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/BigPicutre
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/Why?publish=yes
 
+## Summary 
+I analyzed the trends of CitiBike usage between females and males in Jersey City, New Jersey for all of 2019 using pandas to explore the data and subsequently Tableau to analyze it. 
 
+## Technologies
+* Python: pandas
+[Jupyter Notebook](https://nbviewer.jupyter.org/github/kasiakalemba/CitiBike-Analysis-Tableau/blob/master/Data%20Exploration.ipynb)
+* Tableau
 
 ## Motivation: 
 As apartment sizes grow smaller in commuter hubs, the desire to live in the attractive areas such as Jersey City only grows bigger. One solution to saving space within an apartment and being a better commuter is the shared bike program like CitiBike. 
