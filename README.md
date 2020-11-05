@@ -1,8 +1,17 @@
 # CitiBike Usage: Why aren't females biking more? 
 
-## Tableu Public Links: 
+## Tableau Public Links: 
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/BigPicutre
 https://public.tableau.com/profile/katarzyna.kalemba#!/vizhome/CitibikeBigPicture/Why?publish=yes
+
+## Table of Contents
+* [Summary](#summary)
+* [Technologies](#technologies)
+* [Motivation](#motivation)
+* [Observed Trends](#observed-trends)
+* [Final Thoughts](#final-thoughts)
+* [Data Source](#data)
+* [References](#references)
 
 ## Summary 
 I analyzed the trends of CitiBike usage between females and males in Jersey City, New Jersey for all of 2019 using pandas to explore the data and subsequently Tableau to analyze it. 
